@@ -11,7 +11,7 @@ public class Factorial {
 	{
 	fact=fact*i;
 	}
-	
+	//this is factorial :P
 	System.out.println("factorial is"+fact);
 
 	}
